@@ -1,0 +1,14 @@
+3 processes
+5 resources
+p0 requests r1
+p0 requests r2
+p1 requests r3
+p1 requests r4
+p2 requests r2
+p0 requests r0
+p1 requests r0
+p0 releases r0
+p0 releases r1
+p0 releases r2
+p1 requests r1
+p2 requests r3
